@@ -1,0 +1,195 @@
+
+body
+{
+
+font-family: 'Merienda', cursive;  
+	text-align:center;
+}
+
+#top-container
+{
+	padding-top:20px;
+	background-color: #E7F6F2;
+	margin: 0px;
+}
+
+#middle-container
+{
+ text-align: center;
+ color: #395B64;
+}
+
+#bottom-container
+{
+	background-color: #E7F6F2 ;
+	padding: 50px;
+}
+
+.top-cloud-img
+{
+	position: absolute;
+	right: 350px;
+	top: 100px;
+}
+
+.bottom-cloud-img
+{
+	display: block;
+	padding-left: 250px;
+}
+
+.mountain-img
+{
+	padding-left: 20%;
+}
+
+.penguin-img
+{
+
+	width: 80px;
+	position: absolute;
+	left: 100px;
+}
+
+
+.top-container-heading
+{
+margin-top: 15%;
+color: #395B64;
+
+}
+
+h1{
+font-family: 'Sacramento', cursive;
+font-size: 60px;
+}
+
+h2
+{
+	color: #66BFBF;
+}
+
+h3
+{
+	color: #11999E;
+}
+
+
+nav{
+	 position: fixed;
+	 margin-left: 70%;
+	 margin-top: 0px;
+  
+}
+
+.nav-list{
+	  display: inline-block;
+	  padding-right: 30px;
+
+}
+.nav-list :hover{
+	color: red;
+}
+
+a{
+	text-decoration: none;
+    color: #11999E;
+	font-size: 20px;
+}
+
+
+.para1{
+	color: #395B64;
+	font-size: 20px;
+}
+
+
+.para2{
+	width: 20%;
+	padding-left: 40%;
+	padding-bottom: 5%;
+}
+
+hr{
+	width: 10%;
+	border-style: dotted none none none;
+	border-width: 8px;
+	border-color: grey;
+	padding-bottom: 10%;
+}
+
+.piano-img
+{
+	width: 100px;
+	height: 100px;
+	float: left;
+	padding-right: 30px;
+}
+
+.song-img
+{
+	width: 100px;
+	height: 100px;
+	float: right ;
+}
+
+
+
+.btn
+{
+	border-radius: 10px;
+	border-width: 2px;
+	background-color: #E7F6F2;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.btn:hover
+{
+ background-color: #9ED5C5;
+   transition-duration: 1s;
+}
+
+.skills
+{
+
+
+	text-align: left;
+/*	margin-left: 40%;*/
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	line-height: 2;
+
+	padding-bottom: 30px;
+}
+
+.footer-link
+{
+	padding-right: 40px;
+	font-size: 15px;
+}
+
+.footer-link:hover
+{
+	color: red;
+}
+
+.copy
+{
+	margin: 0px;
+	margin-top: 10px;
+}
+
+/*ul
+{
+		text-align: center;
+}
+
+li
+{
+	display: inline-block;
+	font-size: 50px;
+	color: grey;
+
+}*/
